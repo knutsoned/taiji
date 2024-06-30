@@ -1,3 +1,3 @@
-# dao
+# taiji
 
-An application state manager.
+An application state manager for Rust.

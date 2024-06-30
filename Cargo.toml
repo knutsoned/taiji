@@ -1,7 +1,7 @@
 [package]
-name = "dao"
-description = "A library for managing application state."
-repository = "https://github.com/knutsoned/dao"
+name = "taiji"
+description = "An application state manager for Rust."
+repository = "https://github.com/knutsoned/taiji"
 version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
